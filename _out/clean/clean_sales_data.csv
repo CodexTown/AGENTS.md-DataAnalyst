@@ -1,0 +1,12 @@
+date,region,product,quantity,price,revenue
+2023-01-01,North,Widget A,10.0,100,1000.0
+2023-01-02,South,Widget B,5.0,200,1000.0
+2023-01-04,East,Widget C,8.0,150,1200.0
+2023-01-05,West,Widget A,12.0,100,1200.0
+2023-02-01,North,Widget B,7.0,200,1400.0
+2023-02-02,South,Widget A,15.0,100,1500.0
+2023-02-04,West,Widget B,6.0,200,1200.0
+2023-03-01,North,Widget A,20.0,100,2000.0
+2023-03-02,South,Widget C,10.0,150,1500.0
+2023-03-03,East,Widget A,5.0,100,500.0
+2023-03-04,West,Widget B,8.0,200,1600.0
